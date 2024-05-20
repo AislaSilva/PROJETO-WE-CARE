@@ -1,4 +1,5 @@
-<h1>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</h1>
+<h1 align=center>  
+  Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</h1>
 
 <h2>Tecnologias usadas:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
